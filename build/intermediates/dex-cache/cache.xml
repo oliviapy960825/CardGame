@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\CardGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66108aa7f179556fd124a919a800c669b2ee5df4">
+        <dex dex="C:\Android\CardGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a9ae48272d9352f7083947e148a69e4e87a46be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\CardGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android\CardGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eaff9620b6753080768250d7d07213347cc481ec\classes.dex" />
+    </item>
+
+</items>
